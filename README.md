@@ -1,4 +1,4 @@
-# :earth_americas: GDP dashboard template
+# :earth_americas: TEFAS dashboard
 
 A simple Streamlit app showing the TEFAS Funds.
 
